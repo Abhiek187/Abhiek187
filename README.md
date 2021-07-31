@@ -28,14 +28,14 @@ Here are some ideas to get you started:
     "Python"
   ],
   "interests": [
-    "front-end development",
-    "full-stack development",
-    "machine learning"
+    "Front-End Development",
+    "Full-Stack Development",
+    "Machine Learning"
   ],
   "hobbies": [
-    "video games 🎮",
-    "exercising 💓",
-    "investing in crypto 💲"
+    "Video Games 🎮",
+    "Exercising 💓",
+    "Investing in Crypto 💲"
   ],
   "funFact": "I did marching band and play the flute and piccolo. 🎼"
 }
