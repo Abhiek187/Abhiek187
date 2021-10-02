@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     "Exercising 💓",
     "Investing in Crypto 💲"
   ],
-  "funFact": "I did marching band and play the flute and piccolo. 🎼"
+  "funFact": "I play the flute and piccolo and did marching band. 🎼"
 }
 ```
 
