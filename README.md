@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 {
   "name": "Abhishek Chaudhuri",
   "pronouns": "he/him",
-  "currentRole": "Mobile Associate at Prudential Financial 📱",
+  "currentRole": "Software Engineer at Prudential Financial 📱",
   "education": "BS/MS in Electrical & Computer Engineering at Rutgers University ⚡",
   "favoriteLanguages": [
     "TypeScript",
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     "Exercising 💓",
     "Investing in Crypto 💲"
   ],
-  "funFact": "I play the flute and piccolo and did marching band. 🎼"
+  "funFact": "I play the flute and piccolo and performed in a marching band. 🎼"
 }
 ```
 
