@@ -42,4 +42,9 @@ Here are some ideas to get you started:
 ```
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiek187&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiek187&show_icons=true&theme=yeblu)-->
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
