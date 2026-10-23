@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 {
   "name": "Abhishek Chaudhuri",
   "pronouns": "he/him",
-  "currentRole": "Senior Software Engineer at Prudential Financial 📱🖥️",
+  "currentRole": "Lead Software Engineer at Prudential Financial 📱🖥️",
   "education": "BS/MS in Electrical & Computer Engineering at Rutgers University ⚡",
   "favoriteLanguages": [
     "TypeScript",
